@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lamberget-app/static/css/main.a6830a77.css",
+    "main.css": "/lamberget-app/static/css/main.de39b24c.css",
     "main.js": "/lamberget-app/static/js/main.ffcf10f9.js",
     "static/js/787.045e20ef.chunk.js": "/lamberget-app/static/js/787.045e20ef.chunk.js",
     "static/media/photo-1641371084529-1f4c8d40cea3.jpg": "/lamberget-app/static/media/photo-1641371084529-1f4c8d40cea3.6ef6db913df93a631506.jpg",
     "index.html": "/lamberget-app/index.html",
-    "main.a6830a77.css.map": "/lamberget-app/static/css/main.a6830a77.css.map",
+    "main.de39b24c.css.map": "/lamberget-app/static/css/main.de39b24c.css.map",
     "main.ffcf10f9.js.map": "/lamberget-app/static/js/main.ffcf10f9.js.map",
     "787.045e20ef.chunk.js.map": "/lamberget-app/static/js/787.045e20ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6830a77.css",
+    "static/css/main.de39b24c.css",
     "static/js/main.ffcf10f9.js"
   ]
 }
